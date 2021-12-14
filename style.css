@@ -4,7 +4,9 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
-
+body {
+  background-color: white;
+}
 section {
   height: 100vh;
   display: flex;
